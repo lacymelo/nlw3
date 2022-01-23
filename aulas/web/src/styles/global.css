@@ -1,0 +1,35 @@
+:root{
+    --color-background: #ebf2f5;
+    --color-primary-lighter: #29B6D1;
+    --color-primary: #00C7C7;
+    --background-button-yellow: #ffd666;
+    --background-button-transition: #96FEFF;
+    --color-button-create: #15c3d6;
+    --color-secondary-create-transition: #17d6eb;
+    --color-title-in-primary: #FFFFFF;
+    --color-text-in-primary: #D4C2FF;
+    --color-text-title: #32264D;
+    --color-text-base: #6A6180;
+    --color-line-in-white: #E6E6F0;
+    --color-input-background: #F8F8FC;
+    --color-button-text: #FFFFFF;
+    --color-box-base: #FFFFFF;
+    --color-box-footer: #FAFAFC;
+  
+    font-size: 60%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: var(--color-box-base);
+    background-color: var(--color-background);
+}
+
+body, input, button, textarea {
+    font: 600 1.8rem Nunito, sans-serif;
+}
