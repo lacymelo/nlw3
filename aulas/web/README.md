@@ -4,7 +4,7 @@
 </h1>
 
 
-<h2 align="left">💻 Comando para a estrutura do template</h2>
+<h2 align="left">💻 Comando para criar a estrutura do template</h2>
 <h3 align="justify"> - yarn create react-app web --template typescript</h3>
 
 ---
