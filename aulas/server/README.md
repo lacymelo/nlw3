@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    🚀 Comandos Para Instalar as Tecnologias Utilizadas Nesta Api 🚀
+    🚀 Tecnologias Utilizadas na API 🚀
 </h1>
 
 
