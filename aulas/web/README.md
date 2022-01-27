@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    🔖 Comandos Para Instalar as Tecnologias Utilizadas no Layout WEB 🔖
+    🔖 Tecnologias Utilizadas no Layout WEB 🔖
 </h1>
 
 
