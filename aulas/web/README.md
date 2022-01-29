@@ -67,3 +67,12 @@
 <h3 align="justify" >
     - yarn add react-dropzone
 </h3>
+
+---
+<h2 align="left">
+    🛠️ Biblioteca para fazer requisições do frontend para API
+</h2>
+
+<h3 align="justify" >
+    - yarn add axios
+</h3>

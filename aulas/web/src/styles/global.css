@@ -6,15 +6,11 @@
     --background-button-transition: #96FEFF;
     --color-button-create: #15c3d6;
     --color-secondary-create-transition: #17d6eb;
-    --color-title-in-primary: #FFFFFF;
-    --color-text-in-primary: #D4C2FF;
-    --color-text-title: #32264D;
-    --color-text-base: #6A6180;
-    --color-line-in-white: #E6E6F0;
-    --color-input-background: #F8F8FC;
-    --color-button-text: #FFFFFF;
+    --color-background-popup: rgba(255, 255, 255, 0.8);
+    --color-popup: #0089a5;
+    --color-shadow-icon: rgba(23, 142, 166, 0.16);
     --color-box-base: #FFFFFF;
-    --color-box-footer: #FAFAFC;
+    --color-background-aside: #15B6D6;
   
     font-size: 60%;
 }

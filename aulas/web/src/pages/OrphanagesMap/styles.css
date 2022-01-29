@@ -62,3 +62,36 @@
 #page-map .create-orphanage:hover {
     background: var(--color-secondary-create-transition);
 }
+
+#page-map .map-popup .leaflet-popup-content-wrapper {
+    background: var(--color-background-popup);
+    border-radius: 20px;
+    box-shadow: none;
+}
+
+#page-map .map-popup .leaflet-popup-content {
+    color: var(--color-popup);
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0.8rem 1.2rem;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#page-map .map-popup .leaflet-popup-content a {
+    width: 4rem;
+    height: 4rem;
+    background: var(--color-button-create);
+    box-shadow: 1.72rem 2.76rem 4.14rem var(--color-shadow-icon);
+    border-radius: 1.2rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+
+#page-map .map-popup .leaflet-popup-tip-container {
+    display: none;
+}   
