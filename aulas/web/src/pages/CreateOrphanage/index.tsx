@@ -70,13 +70,10 @@ export default function CreateOrphanage() {
 
         const selectedImages = Array.from(event.target.files);
 
-        setImages(selectedImages);
-
-        const selectedImagesPreview = selectedImages.map(image => {
-            return URL.createObjectURL(image);
-        })
-
-        setPreviewImages(selectedImagesPreview);   
+        selectedImages.map(image => {
+            setImages([...images, image]);
+            setPreviewImages([...previewImages, URL.createObjectURL(image)]);   
+        })  
     }
 
     function removeImage(position: number){
