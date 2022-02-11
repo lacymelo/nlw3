@@ -2,7 +2,8 @@ import { StyleSheet, Dimensions } from "react-native";
 
 const styles = StyleSheet.create({
     container: {
-        flex: 1
+        flex: 1,
+        paddingTop: 40,
     },
 
     map: {
@@ -17,7 +18,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'rgba(255, 255, 255, 0.8)',
         borderRadius: 16,
         justifyContent: 'center',
-        elevation: 3
+        elevation: 3,
     },
 
     calloutText: {

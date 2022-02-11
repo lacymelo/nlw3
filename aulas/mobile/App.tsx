@@ -17,7 +17,12 @@ export default function App() {
     return <AppLoading />
   }else{
     return (
-      <>     
+      <> 
+        <StatusBar 
+          style='light'
+          backgroundColor="#15c3d6"
+        />
+
         <Routes/>
       </>
     );

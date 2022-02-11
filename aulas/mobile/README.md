@@ -80,4 +80,22 @@
     - yarn add axios
 </h3>
 
+---
+
+<h2 align="left">
+    🛠️ Instalando o módulo de Geolocalização do expo, para recuperar a localização do usuário
+</h2>
+
+<h3 align="justify" >
+    - expo install expo-location
+</h3>
+
+<h2 align="left">
+    🛠️ Instalando a biblioteca que trabalha com upload de imagens
+</h2>
+
+<h3 align="justify" >
+    - expo install expo-image-picker
+</h3>
+
 
