@@ -53,8 +53,6 @@ export default class OrphanagesController{
 
         const requestImages = req.files as Express.Multer.File[];
 
-        console.log(req.body);
-
         const images = requestImages.map(image => {
             return {
                 path: image.filename
